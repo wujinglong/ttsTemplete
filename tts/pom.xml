@@ -54,9 +54,10 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.41</version>
 		</dependency>
-
+		
+		<!-- down load voicerss to you own maven server or download jar to user this class -->
 		<dependency>
-			<groupId>youzu.dev</groupId>
+			<groupId>XXX.XXX</groupId>
 			<artifactId>tts</artifactId>
 			<version>1.0</version>
 		</dependency>
